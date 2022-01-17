@@ -41,7 +41,6 @@
 
 ![](pic.jpg)
 
-
 ## Ветки в git
 Чтобы посмотреть все ветки:
 > git branch
@@ -51,8 +50,6 @@
 
 Переместиться к ветке branch_name:
 > git checkout branch_name
-
-
 
 ## Удаление веток
 
