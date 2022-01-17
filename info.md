@@ -51,3 +51,7 @@
 
 Переместиться к ветке branch_name:
 > git checkout branch_name
+
+## Слияние веток и решение конфликтов
+Команда для выкачивания информации из ветки branch_name в текущую ветку:
+> git merge branch_name
